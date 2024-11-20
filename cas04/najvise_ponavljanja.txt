@@ -1,0 +1,4 @@
+Najvise A, 2 ima kod ATTCCGTA
+Najvise G, 2 ima kod GCTATAGCT
+Najvise C, 2 ima kod ATTCCGTA
+Najvise T, 3 ima kod ATTCCGTA
