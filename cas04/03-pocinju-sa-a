@@ -1,0 +1,21 @@
+vocke = ['Ananas', 'Banana', 'Pomorandza', 'Avokado', 'Mandarina']
+
+pocinju_na_A = []
+brojac=0
+
+for vocka in vocke:
+    if vocka[0] == 'A' or vocka[0] == 'a':
+        pocinju_na_A.append(vocka)
+        #brojac += 1, to je isto sto i brojac = brojac + 1
+
+print('Imamo ' + str(len(pocinju_na_A)) + ' vocki i to su ' + str(pocinju_na_A))
+#Imamo 2 vocki i to su ['Ananas', 'Avokado']
+#Sta ako hocemo da pise: Imamo 2 vocki i to su Ananas, Avokado
+#Hocemo ['Ananas','Avokado'] prebacimo u Ananas, Avokado
+tekst_A = ''
+for vocka in pocinju_na_A:
+    tekst_A += vocka + ', '
+#Ovde je tekst_A = Ananas, Avokado, 
+#Treba da izuzmemo poslednja 2 karaktera
+tekst_A = tekst_A[:-2]
+print('Imamo ' + str(len(pocinju_na_A)) + ' vocki i to su ' + tekst_A)

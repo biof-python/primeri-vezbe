@@ -1,0 +1,4 @@
+AT, 3
+GC,2
+TA,1
+TGCTA ,2
