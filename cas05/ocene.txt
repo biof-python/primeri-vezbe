@@ -1,0 +1,4 @@
+Miloje Joksimovic: 10
+Jovan Jovanovic: 5
+Ivan Petrovic: 9
+Milena Jankovic: 7
