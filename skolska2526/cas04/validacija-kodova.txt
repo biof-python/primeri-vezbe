@@ -1,0 +1,10 @@
+ATAGAGAGCTGACT je validan
+ATAGXAT nije validan
+ATTAGCA je validan
+ATIAGAI nije validan
+TTGACAGTAATG je validan
+JAGAGAGAGXTA nije validan
+ATTAGATCA je validan
+2ATAGAG nije validan
+ATTATGA je validan
+MATATATATA nije validan

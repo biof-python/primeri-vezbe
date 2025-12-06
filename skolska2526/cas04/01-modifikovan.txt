@@ -1,0 +1,4 @@
+Modifikovali smo 01.txt
+Ovo je  pomocni tekst.
+Ima vise linija.
+Sluzi nam za ispis na standardni izlaz.
