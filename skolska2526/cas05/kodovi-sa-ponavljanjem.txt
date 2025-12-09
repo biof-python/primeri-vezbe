@@ -1,0 +1,5 @@
+AT, 3
+GC, 1
+TATTATA, 1
+AG, 2
+GCAC, 3
