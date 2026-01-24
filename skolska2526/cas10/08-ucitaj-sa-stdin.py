@@ -1,0 +1,8 @@
+print('Ukucajte nesto:')
+s = input()
+print(s)
+print('Ukucajte prvi sabirak')
+a = int(input())
+print('Ukucajte drugi sabirak')
+b = int(input())
+print('Zbir je: ' + str(a+b))
