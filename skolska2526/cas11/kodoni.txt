@@ -1,0 +1,8 @@
+AAA: 6
+AGG: 1
+CCA: 1
+CCC: 2
+GCC: 1
+GGG: 2
+TGA: 1
+TTT: 3

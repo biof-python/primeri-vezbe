@@ -1,0 +1,3 @@
+fajl	duzina	GC_procenat
+02.txt	9	44.44
+04.txt	12	50.00
